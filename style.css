@@ -1,0 +1,207 @@
+body{
+    max-width: 500px;
+    max-height: 700px;
+    overflow-x: hidden;
+    font-family: 'Inter', sans-serif;
+}
+p{
+    font-family: 'Inter', sans-serif;
+    font-size: x-small;
+    color: grey;
+}
+
+h3{
+    font-style:"semi bold";
+    font-family: 'Inter', sans-serif; 
+    margin-left:10px;
+}
+.header{
+    width: 500px;
+    height: 48px;
+    margin-top: -9px;
+
+
+}
+.header_contanier{
+    padding: 5px;
+    width:500px;
+    height: 48px;
+}
+#three_bar_icon{
+position: absolute;
+    top: 25px;
+    left: 22px;
+}
+#search_icon{
+    position: absolute;
+    left: 55px;
+    top: 21px;
+}
+#question_icon{
+    position: absolute;
+    left: 250px;
+    top: 22px;
+}
+#bell_icon{
+    position: absolute;
+    left: 286px;
+    top:20px;
+}
+.user_icon{
+    border-radius: 90px;
+    width: 33px;
+    height: 33px;
+    position: absolute;
+    left: 315px;
+    top: 13px;
+}
+hr{
+   outline: 1px;
+   margin-left: 0px;
+   width: 72%;
+   
+}
+#add_button{
+    position:absolute;
+    top: 72px;
+    margin-left: 235px;
+
+    
+}
+#flitter_icon{
+     position: absolute;
+     margin-top: 11px;
+     margin-left: 110px;
+}
+#sort_button{
+    position: absolute;
+  
+    margin-top: 10px;
+     margin-left: 130px;
+}
+table{
+    margin-left: 20px;
+    margin-top: 25px;
+    border-spacing: 6px;
+}
+
+td{
+    margin: 10px;
+    padding: 8px;
+    padding-right:20px ;
+    box-sizing: border-box;
+    border: solid 0.5px #888888;
+    border-radius: 10px;
+    width:300px
+}
+.all_button{
+    padding: 10px;
+}
+.user_shortcuts{
+    width: 400px;
+    
+}
+.box_icons{
+    background-color:#F9FAFB;
+    border-color:#d5d7da ;
+    width: 80px;
+    position: absolute;
+    left: 250px;
+    top:135px;
+    padding: 3px;
+    align-content: center;
+    border-radius: 4px;
+}
+.shortcut_name1{
+    float: right;
+    position: absolute;
+    top: 195px;
+    left:102px;
+}
+.shortcut_name2{
+    float: right;
+    position: absolute;
+    top: 270px;
+    left: 102px;
+}
+.shortcut_name3{
+    float: right;
+    position: absolute;
+    top: 343px;
+    left: 102px;
+}
+.shortcut_name4{
+    float: right;
+    position: absolute;
+    left: 102px;
+    top: 421px;
+}
+.shortcut_name5{
+    float: right;
+    position: absolute;
+    left: 102px;
+    top: 493px;
+}
+.shortcut_name6{
+    float: right;
+    position: absolute;
+    left: 102px;
+    top: 568px;
+}
+.user_response{
+    position: absolute;
+    top: 238px;
+    left: 120px;
+}
+.user_response2{
+    position: absolute;
+    top: 314px;
+    left: 120px;
+
+}
+.user_response3{
+    position: absolute;
+    top: 390px;
+    left: 120px;
+
+}
+.user_response4{
+    position: absolute;
+    top: 465px;
+    left: 120px;
+
+}
+.user_response5{
+    position: absolute;
+    top: 540px;
+    left: 120px;
+
+}
+.user_response6{
+    position: absolute;
+    top: 616px;
+    left: 120px;
+
+}
+.bulding_icon{
+    position: absolute;
+    left: 55px;
+    top: 10px;
+}
+.star_icon1{
+    position: absolute;
+    left: 176px;
+    top: -5px;
+
+}
+.view_txt{
+    background-color: #F3F4F6;
+    width: 48px;
+    height: 16px;
+    font-size: xx-small;
+    border-radius:10px;
+    align-content: center;
+    position: absolute;
+    left: 78px;
+    top: 12px;
+}
